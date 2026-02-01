@@ -1,7 +1,7 @@
 # Hi, I'm Dipu Badatya 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Final+Year+CSE+Student;MERN+Stack+Developer;Building+JobReady+AI;IoT+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Final+Year+CSE+Student;MERN+Stack+Developer;Building+JobReady+AI;Realtime-System" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,11 +31,15 @@ I am a final-year Computer Science student who enjoys turning ideas into working
 
 #### 🤖 JobReady AI
 This is my major project. It's a recruitment assistant that uses AI to help sort through candidates. I built it using **Node.js, MongoDB, and the Gemini API** to make the hiring process feel less like a chore.
-> [View Repository](YOUR_GITHUB_LINK_HERE)
+> [IN PROGRESS](YOUR_GITHUB_LINK_HERE)
 
 #### 🚌 Real-time Bus Tracker
 A group project designed for our college. It helps students track college buses in real-time so they don't miss their ride. 
-> [View Repository](YOUR_GITHUB_LINK_HERE)
+> [LIVE LINK](https://advance-bus-tracking-deployment.onrender.com/)
+
+#### 🚌 Diary-web-app
+Story writing web app use can share about their Thoughts . Books  
+> [LIVE LINK](ry-web-app-nine.vercel.app/stories)
 
 ---
 
