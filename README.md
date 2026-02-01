@@ -27,6 +27,12 @@ I am a final-year Computer Science student who enjoys turning ideas into working
 
 ---
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,html,css,tailwind,react,js,npm,nodejs,mongodb,mongodb,netlify" />
+  </a>
+</p>
+
 ### 🚀 Top Projects
 
 #### 🤖 JobReady AI
