@@ -1,114 +1,58 @@
-# Hi 👋 I'm Dipu Badatya
+# 🛠️ Hi, I'm Dipu Badatya
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%7C+MERN+Stack;Final+Year+CSE+Student;AI+Enthusiast+%7C+Problem+Solver)
+I'm a **Frontend Developer** with a passion for creative coding and smooth user experiences. I love bringing designs to life using **GSAP** and **Tailwind CSS**. When I'm not polishing pixels, I'm usually tinkering with **ESP32** microcontrollers and building small robots.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6366f1&style=flat-square)
-
----
-
-## 🧑‍💻 About Me
-
-🎓 **Final Year CSE Student** passionate about building web applications
-
-💻 **Full-Stack Developer** specializing in **MERN Stack**
-
-🤖 Exploring **AI Integration** in web apps using Google Gemini & Hugging Face
-
-🌱 Currently learning **System Design & DevOps**
-
-🎯 Goal: Build products that make real-world impact
-
-⚡ Fun fact: I turn coffee into code!
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI Integration
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Currently:** Building projects that bridge the gap between clean code and physical hardware.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. JobReady AI
-> 🤖 AI-powered recruitment platform that automates hiring using LLMs
+### 🛠️ [Lume (Chrome Extension)](YOUR_GITHUB_LINK)
+A developer tool designed to overlay custom grids on any website to help with pixel-perfect layouts.
+* **Tech:** JavaScript, CSS, Chrome API
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_LIVE_LINK)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+### 💊 [CureIt — AI Medicine Guide](YOUR_GITHUB_LINK)
+An AI-powered web app that helps users understand medicine details using the Gemini API.
+* **Tech:** React.js, Tailwind CSS, Google Gemini API
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • Google Gemini API
-
----
-
-### 2. Project Name
-> 📝 Short description of your project
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_LIVE_LINK)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
-
-**Tech:** React.js • Node.js • MongoDB
+### 🤖 [Shiro — Desk Robot](YOUR_GITHUB_LINK)
+A hardware project featuring an ESP32-powered robot with an OLED display for expressions.
+* **Tech:** Arduino/C++, ESP32, Hardware Design
 
 ---
 
-### 3. Project Name
-> 🔥 Short description of your project
+## 🧰 My Toolbox
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_LIVE_LINK)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
+### **Frontend & Motion**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-**Tech:** React.js • Express.js • MongoDB
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+### **Backend & Hardware**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 My GitHub Journey
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&column=7)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+* 🌐 **Portfolio:** [yourportfolio.com](YOUR_PORTFOLIO_URL)
+* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](YOUR_LINKEDIN_URL)
+* 📧 **Email:** [yourname@gmail.com](mailto:YOUR_EMAIL)
 
 ---
 
-### 💭 "Building the future with code and curiosity."
-
-⭐ **Star my repos if you find them helpful!**
+### 💭 "Turning complex ideas into simple, beautiful code."
