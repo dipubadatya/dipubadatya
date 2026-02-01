@@ -1,58 +1,59 @@
-# 🛠️ Hi, I'm Dipu Badatya
-
-I'm a **Frontend Developer** with a passion for creative coding and smooth user experiences. I love bringing designs to life using **GSAP** and **Tailwind CSS**. When I'm not polishing pixels, I'm usually tinkering with **ESP32** microcontrollers and building small robots.
-
-**Currently:** Building projects that bridge the gap between clean code and physical hardware.
-
----
-
-## 🚀 Featured Projects
-
-### 🛠️ [Lume (Chrome Extension)](YOUR_GITHUB_LINK)
-A developer tool designed to overlay custom grids on any website to help with pixel-perfect layouts.
-* **Tech:** JavaScript, CSS, Chrome API
-
-### 💊 [CureIt — AI Medicine Guide](YOUR_GITHUB_LINK)
-An AI-powered web app that helps users understand medicine details using the Gemini API.
-* **Tech:** React.js, Tailwind CSS, Google Gemini API
-
-### 🤖 [Shiro — Desk Robot](YOUR_GITHUB_LINK)
-A hardware project featuring an ESP32-powered robot with an OLED display for expressions.
-* **Tech:** Arduino/C++, ESP32, Hardware Design
-
----
-
-## 🧰 My Toolbox
-
-### **Frontend & Motion**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-
-### **Backend & Hardware**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
----
-
-## 📊 My GitHub Journey
+# Hi, I'm Dipu Badatya 👋 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Final+Year+CSE+Student;MERN+Stack+Developer;Building+JobReady+AI;IoT+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+### 📖 About Me
+I am a final-year Computer Science student who enjoys turning ideas into working code. Right now, I’m mostly focused on building web applications using the **MERN stack** and finding practical ways to use **AI** to solve everyday problems.
 
-* 🌐 **Portfolio:** [yourportfolio.com](YOUR_PORTFOLIO_URL)
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](YOUR_LINKEDIN_URL)
-* 📧 **Email:** [yourname@gmail.com](mailto:YOUR_EMAIL)
+* 🎓 **Education:** Final Year CSE (7th/8th Sem)
+* 🛠️ **Current Focus:** Polishing my Major Project (**JobReady AI**) and getting ready for the industry.
+* ☕ **Philosophy:** Keep the code clean and the logic simple.
 
 ---
 
-### 💭 "Turning complex ideas into simple, beautiful code."
+### 💻 What I Work With
+
+| Category | Tools & Tech |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, EJS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **AI Tools** | Google Gemini API |
+| **Others** | Git, GitHub, Postman, IoT Architecture |
+
+---
+
+### 🚀 Top Projects
+
+#### 🤖 JobReady AI
+This is my major project. It's a recruitment assistant that uses AI to help sort through candidates. I built it using **Node.js, MongoDB, and the Gemini API** to make the hiring process feel less like a chore.
+> [View Repository](YOUR_GITHUB_LINK_HERE)
+
+#### 🚌 Real-time Bus Tracker
+A group project designed for our college. It helps students track college buses in real-time so they don't miss their ride. 
+> [View Repository](YOUR_GITHUB_LINK_HERE)
+
+---
+
+### 📊 My Progress
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="Dipu's Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="Dipu's Streak" width="48%" />
+</p>
+
+---
+
+### 🤝 Get in Touch
+I'm always open to talking about web dev, project ideas, or placement prep.
+
+* **Portfolio:** [Check out my work here](YOUR_PORTFOLIO_LINK)
+* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+* **Gmail:** [Send me an email](mailto:YOUR_EMAIL@gmail.com)
+
+---
+<p align="center">Made with ❤️ and plenty of coffee.</p>
