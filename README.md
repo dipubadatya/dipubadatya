@@ -37,7 +37,7 @@ I am a final-year Computer Science student who enjoys turning ideas into working
 
 #### 🤖 JobReady AI
 This is my major project. It's a recruitment assistant that uses AI to help sort through candidates. I built it using **Node.js, MongoDB, and the Gemini API** to make the hiring process feel less like a chore.
-> [IN PROGRESS](YOUR_GITHUB_LINK_HERE)
+> [IN PROGRESS](https://github.com/dipubadatya)
 
 #### 🚌 Real-time Bus Tracker
 A group project designed for our college. It helps students track college buses in real-time so they don't miss their ride. 
@@ -45,16 +45,8 @@ A group project designed for our college. It helps students track college buses 
 
 #### 🚌 Diary-web-app
 Story writing web app use can share about their Thoughts . Books  
-> [LIVE LINK](ry-web-app-nine.vercel.app/stories)
+> [LIVE LINK](diary-web-app-nine.vercel.app/stories)
 
----
-
-### 📊 My Progress
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="Dipu's Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="Dipu's Streak" width="48%" />
-</p>
 
 ---
 
@@ -62,8 +54,8 @@ Story writing web app use can share about their Thoughts . Books
 I'm always open to talking about web dev, project ideas, or placement prep.
 
 * **Portfolio:** [Check out my work here](YOUR_PORTFOLIO_LINK)
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-* **Gmail:** [Send me an email](mailto:YOUR_EMAIL@gmail.com)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dipu-badatya/)
+* **Gmail:** [Send me an email](dipubadatya113@gmail.com)
 
 ---
 <p align="center">Made with ❤️ and plenty of coffee.</p>
