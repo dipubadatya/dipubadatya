@@ -1,61 +1,57 @@
 # Hi, I'm Dipu Badatya 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Final+Year+CSE+Student;MERN+Stack+Developer;Building+JobReady+AI;Realtime-System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+JobReady+AI;Solving+Problems+with+Code;React+%2B+Node.js" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📖 About Me
-I am a final-year Computer Science student who enjoys turning ideas into working code. Right now, I’m mostly focused on building web applications using the **MERN stack** and finding practical ways to use **AI** to solve everyday problems.
+### 📖 A bit about me
+I'm a developer who enjoys turning ideas into working websites. I spend most of my time with the **MERN stack**, trying to make things that are actually useful—like a tracking system for my college or an AI tool to help with hiring.
 
-* 🎓 **Education:** Final Year CSE (7th/8th Sem)
-* 🛠️ **Current Focus:** Polishing my Major Project (**JobReady AI**) and getting ready for the industry.
-* ☕ **Philosophy:** Keep the code clean and the logic simple.
+* 🛠️ **Current Project:** Working on **JobReady AI**, a tool that uses the Gemini API to help people sort through resumes.
+* 🧠 **Learning:** Getting better at Data Structures and looking into how AI can make apps smarter.
+* ⚡ **Goal:** Building stuff that works well and looks clean.
 
 ---
 
-### 💻 What I Work With
+### 💻 Tech I use
 
-| Category | Tools & Tech |
+| Type | Tools |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, React.js, EJS |
-| **Backend** | Node.js, Express.js |
+| **Frontend** | React.js, Tailwind CSS, JavaScript, HTML/CSS |
+| **Backend** | Node.js, Express.js, EJS |
 | **Database** | MongoDB |
-| **AI Tools** | Google Gemini API |
-| **Others** | Git, GitHub, Postman, IoT Architecture |
+| **Other stuff** | Git, GitHub, Postman, Gemini API |
 
----
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,html,css,tailwind,react,js,npm,nodejs,mongodb,mongodb,netlify" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,tailwind,js,git,postman,netlify,vercel,html" />
   </a>
 </p>
 
-### 🚀 Top Projects
+---
 
-#### 🤖 JobReady AI
-This is my major project. It's a recruitment assistant that uses AI to help sort through candidates. I built it using **Node.js, MongoDB, and the Gemini API** to make the hiring process feel less like a chore.
-> [IN PROGRESS](https://github.com/dipubadatya)
+### 📂 What I've Built
 
-#### 🚌 Real-time Bus Tracker
-A group project designed for our college. It helps students track college buses in real-time so they don't miss their ride. 
-> [LIVE LINK](https://advance-bus-tracking-deployment.onrender.com/)
+#### 🤖 **JobReady AI**
+My main project right now. It’s a recruitment assistant that uses **AI** to help scan through candidates and make hiring easier. Built with Node.js and MongoDB.
+> [Check it out](https://github.com/dipubadatya)
 
-#### 🚌 Diary-web-app
-Story writing web app use can share about their Thoughts . Books  
-> [LIVE LINK](diary-web-app-nine.vercel.app/stories)
+#### 🚌 **College Bus Tracker**
+A real-time tracking system I built with my team for our college. It helps students see exactly where the bus is so they don't miss it.
+> [Live Demo](https://advance-bus-tracking-deployment.onrender.com/)
 
+#### ✍️ **Diary Web App**
+A simple place to write down thoughts or share book reviews. It’s clean, easy to use, and focuses on the writing.
+> [Live Demo](https://diary-web-app-nine.vercel.app/stories)
 
 ---
 
-### 🤝 Get in Touch
-I'm always open to talking about web dev, project ideas, or placement prep.
+### 🤝 Let's Chat
+I'm looking for my first role in web development and would love to connect.
 
-* **Portfolio:** [Check out my work here](YOUR_PORTFOLIO_LINK)
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dipu-badatya/)
-* **Gmail:** [Send me an email](dipubadatya113@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dipu-badatya/) • [Email](mailto:dipubadatya113@gmail.com)
 
 ---
-<p align="center">Made with ❤️ and plenty of coffee.</p>
+<p align="center">Made with ❤️ and a lot of coffee.</p>
