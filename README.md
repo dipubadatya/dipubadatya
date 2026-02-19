@@ -108,7 +108,7 @@ I'm looking for my first role in web development and would love to connect.
 ---
 <p align="center">Made with ❤️ and a lot of coffee.</p> 
 
-Got it. You want it to clearly show this is your **final major project** and it’s **currently in progress**, but not sound unfinished or weak.
+
 
 
 
