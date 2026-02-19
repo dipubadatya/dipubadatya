@@ -6,12 +6,15 @@
 
 ---
 
-### 📖 A bit about me
-I'm a developer who enjoys turning ideas into working websites. I spend most of my time with the **MERN stack**, trying to make things that are actually useful—like a tracking system for my college or an AI tool to help with hiring.
+### 📖 A Bit About Me
 
-* 🛠️ **Current Project:** Working on **JobReady AI**, a tool that uses the Gemini API to help people sort through resumes.
-* 🧠 **Learning:** Getting better at Data Structures and looking into how AI can make apps smarter.
-* ⚡ **Goal:** Building stuff that works well and looks clean.
+I’m a fresher MERN stack developer who enjoys building real, working web applications. I like taking ideas from scratch and turning them into complete projects with clean UI and structured backend logic.
+
+Most of my work focuses on full-stack development, where I build responsive interfaces with React or EJS and connect them to a Node.js and MongoDB backend. I care about writing readable code and creating applications that feel smooth and practical.
+
+* 🛠 **Current Project:** Building **JobReady AI**, my final project, where I’m integrating the Gemini API to analyze resumes and generate useful hiring insights.
+* 🚀 **Focus:** Improving my full-stack development skills and learning how to build more scalable and production-ready applications.
+* 🎯 **Goal:** To grow as a developer by contributing to real-world products and continuously improving my craft.
 
 ---
 
@@ -19,10 +22,10 @@ I'm a developer who enjoys turning ideas into working websites. I spend most of 
 
 | Type | Tools |
 | :--- | :--- |
-| **Frontend** | React.js, Tailwind CSS, JavaScript, HTML/CSS |
-| **Backend** | Node.js, Express.js, EJS |
+| **Frontend** | React.js, Tailwind CSS, JavaScript, HTML/CSS  ,EJS|
+| **Backend** | Node.js, Express.js, socket.IO  |
 | **Database** | MongoDB |
-| **Other stuff** | Git, GitHub, Postman, Gemini API |
+| **Other stuff** | Git, GitHub, Postman, Gemini API , vercel |
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -32,19 +35,68 @@ I'm a developer who enjoys turning ideas into working websites. I spend most of 
 
 ---
 
-### 📂 What I've Built
+## 📌 Featured Projects
 
-#### 🤖 **JobReady AI**
-My main project right now. It’s a recruitment assistant that uses **AI** to help scan through candidates and make hiring easier. Built with Node.js and MongoDB.
-> [Check it out](https://github.com/dipubadatya)
+## 🤖 JobReady AI (Final Project – In Progress)
 
-#### 🚌 **College Bus Tracker**
-A real-time tracking system I built with my team for our college. It helps students see exactly where the bus is so they don't miss it.
-> [Live Demo](https://advance-bus-tracking-deployment.onrender.com/)
+JobReady AI is my final major project, currently under active development.
+It is an AI-powered recruitment assistant designed to simplify resume screening and improve early-stage hiring decisions.
 
-#### ✍️ **Diary Web App**
-A simple place to write down thoughts or share book reviews. It’s clean, easy to use, and focuses on the writing.
-> [Live Demo](https://diary-web-app-nine.vercel.app/stories)
+The goal is to reduce manual effort by automatically analyzing resumes and generating meaningful candidate insights.
+
+### 🔍 Current Features
+
+* Resume parsing and structured data extraction
+* Skill and experience analysis using Gemini API
+* AI-generated candidate summaries
+* Backend-based candidate data management using MongoDB
+
+### 🚧 Currently Working On
+
+* Candidate scoring and ranking system
+* Recruiter dashboard interface
+* Improved prompt optimization for better AI responses
+* Performance improvements and workflow refinement
+
+### 🛠 Tech Stack
+
+Node.js, Express.js, MongoDB, Gemini API
+
+🔗 GitHub: (Final Project – In Progress)
+
+---
+
+### 🚌 College Bus Tracking System
+
+A real-time bus tracking web application built to solve a practical college problem — helping students track bus movement live.
+
+**Key Features:**
+
+* Real-time location updates using Socket.io
+* Interactive map with live marker movement (Leaflet.js)
+* Secure driver authentication using Passport.js
+* Session-based login system with MongoDB
+
+**Tech Used:** Node.js, Express, MongoDB, Socket.io, Leaflet.js, TailwindCSS
+
+🔗 Live Demo: [https://advance-bus-tracking-deployment.onrender.com/](https://advance-bus-tracking-deployment.onrender.com/)
+
+---
+
+### ✍️ Diary Web App
+
+A full-stack storytelling platform where users can create, edit, and share personal stories in a clean and distraction-free interface.
+
+**Core Features:**
+
+* Authentication & authorization system
+* CRUD operations for stories
+* Like, comment, and follow functionality
+* Responsive UI with server-side rendering
+
+**Tech Used:** Node.js, Express, MongoDB, EJS, TailwindCSS
+
+🔗 Live Demo: [https://diary-web-app-nine.vercel.app/stories](https://diary-web-app-nine.vercel.app/stories)
 
 ---
 
@@ -54,4 +106,12 @@ I'm looking for my first role in web development and would love to connect.
 [LinkedIn](https://www.linkedin.com/in/dipu-badatya/) • [Email](mailto:dipubadatya113@gmail.com)
 
 ---
-<p align="center">Made with ❤️ and a lot of coffee.</p>
+<p align="center">Made with ❤️ and a lot of coffee.</p> 
+
+Got it. You want it to clearly show this is your **final major project** and it’s **currently in progress**, but not sound unfinished or weak.
+
+
+
+
+
+
